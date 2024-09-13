@@ -1,7 +1,7 @@
 #!/bin/bash
 TYPE="retro-terminal"
 THEME="white.css"
-DOMAIN="theme-park.dev"
+DOMAIN="raw.githubusercontent.com/askthedads/theme.park/main"
 SCHEME="https"
 ADD_JS="true"
 JS="custom_text_header.js"
