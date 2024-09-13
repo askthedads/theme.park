@@ -3,7 +3,7 @@ TYPE="retro-terminal"
 THEME="white.css"
 DOMAIN="askthedads.github.io"
 SCHEME="https"
-ADD_JS="true"
+ADD_JS="false"
 JS="custom_text_header.js"
 DISABLE_THEME="false"
 
