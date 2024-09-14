@@ -1,6 +1,6 @@
 @media (min-width: 752px) {
     [class*="PageHeader-logo-"] {
-        content: url("/css/addons/sonarr/sonarr-4k-text-logo/sonarr-4k-text.png");
+        content: url("/theme.park/css/addons/sonarr/sonarr-4k-text-logo/sonarr-4k-text.png");
         margin-left: 15px;
         width: 120px;
         height: 40px;
@@ -12,12 +12,12 @@
         width: 32px;
         height: 32px;
         margin-left: 0;
-        content: url("/css/addons/sonarr/sonarr-4k-logo/sonarr-4k.png");
+        content: url("/theme.park/css/addons/sonarr/sonarr-4k-logo/sonarr-4k.png");
     }
 }
 
 [class*="LoadingPage-logoFull-"] {
-    content: url("/css/addons/sonarr/sonarr-4k-text-logo/sonarr-4k-text.png");
+    content: url("/theme.park/css/addons/sonarr/sonarr-4k-text-logo/sonarr-4k-text.png");
     margin-top: 50px;
     margin-right: auto;
     margin-left: auto;
@@ -27,6 +27,6 @@
 }
 
 .panel-header > img.logo {
-    content: url("/css/addons/sonarr/sonarr-4k-text-logo/sonarr-4k-text.png");
+    content: url("/theme.park/css/addons/sonarr/sonarr-4k-text-logo/sonarr-4k-text.png");
     width: auto;
 }
